@@ -1,1 +1,17 @@
+## To install from source:
+
+autogen.sh
+
+make
+
+sudo make install
+
+## To play the Chess tileset:
+
+/set topology "WRAPX"
+
+## To run in German from the terminal:
+
+LANGUAGE="de_DE" freeciv-gtk2
+
 Please see the doc/ directory for a complete list of documentation files.
